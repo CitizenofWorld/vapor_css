@@ -117,5 +117,32 @@ get '/sensor/:id' do
 end
 
 
+#      <form action="/" method="get">
+#                       <label for="">Time</label>
+#                       <p><input type="text" name="time" value=""></p>
+#                       <label for="">Day</label>
+#                       <p><input type="text" name="day" value=""></p>
+#                       <label for="">Lat</label>
+#                       <p><input type="text" name="lat" value=""></p>
+#                       <label for="">Long</label>
+#                       <p><input type="text" name="long" value=""></p>
+#                       <button>Submit</button>
+#                     </form>
+
+#                     <style>
+#       /* Always set the map height explicitly to define the size of the div
+#        * element that contains the map. */
+#       #map {
+#         height: 100%;
+#       }
+#       /* Optional: Makes the sample page fill the window. */
+#       html, body {
+#         height: 100%;
+#         margin: 0;
+#         padding: 0;
+#       }
+# </style>
+
+
 
 
